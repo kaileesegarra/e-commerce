@@ -3,4 +3,7 @@ DROP DATABASE IF EXISTS ecommerce_db;
 
 -- CREATE DATABASE
 CREATE DATABASE ecommerce_db;
+CREATE DATABASE myapp_development;
+CREATE DATABASE myapp_test;
+CREATE DATABASE myapp_production;
 
